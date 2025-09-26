@@ -9,3 +9,5 @@ Used green for primary color white for background, made it responsive for and mo
 ### Q3 If the system had 10,000 credits, how would you keep the dashboard fast?
 
 We can use server side pagination with 50 items per page, we can use debounce also with input delay, we can also cache the search results
+
+## DEPLOYED LINK -
