@@ -10,4 +10,4 @@ Used green for primary color white for background, made it responsive for and mo
 
 We can use server side pagination with 50 items per page, we can use debounce also with input delay, we can also cache the search results
 
-## DEPLOYED LINK -
+## DEPLOYED LINK - https://offset-frontend-psi.vercel.app/
